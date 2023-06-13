@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi Nombre es Wilmer Ibarra</h1>
-<h3 align="center">Soy Desarrollador Odoo</h3>
+<h3 align="center">Desarrollador Odoo</h3>
 
 - 👨‍💻 All of my projects are available at [https://wibarra.github.io/portfolio/](https://wibarra.github.io/portfolio/)
 
